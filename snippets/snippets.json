@@ -1,0 +1,22 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": ["console.log('$1');", "$2"],
+    "description": "Log output to console"
+  },
+  "Javascript note": {
+    "prefix": "mdjs",
+    "body": ["```javascript", "$1", "```"],
+    "description": "Insert a note with javascript code"
+  },
+  "Json note": {
+    "prefix": "mdjson",
+    "body": ["```json", "$1", "```"],
+    "description": "Insert a note with json code"
+  },
+  "Bash note": {
+    "prefix": "mdbash",
+    "body": ["```bash", "$1", "```"],
+    "description": "Insert a note with bash code"
+  }
+}

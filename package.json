@@ -1,0 +1,9 @@
+{
+  "name": "nokengo-markdown-snippets",
+  "version": "1.0.0",
+  "description": "Simple snippets to write markdown files for VSCode.",
+  "main": "index.js",
+  "repository": "git@github.com:Nokengo/nokengo-markdown-snippets.git",
+  "author": "Samuel Levy <samuellevy@meshproducoes.com.br>",
+  "license": "MIT"
+}
