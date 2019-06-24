@@ -4,6 +4,11 @@
     "body": ["console.log('$1');", "$2"],
     "description": "Log output to console"
   },
+  "Simple note": {
+    "prefix": "mdn",
+    "body": ["```", "$1", "```"],
+    "description": "Insert a note with bash code"
+  },
   "Javascript note": {
     "prefix": "mdjs",
     "body": ["```javascript", "$1", "```"],
